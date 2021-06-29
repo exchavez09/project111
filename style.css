@@ -1,0 +1,73 @@
+
+body{
+font-family: 'Baloo Tammudu 2', cursive;
+background-color: #5bc0de;
+}
+
+.header_div{
+    background-color: ghostwhite;
+    color: orange;
+}
+
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: rosybrown;
+    padding: 10px;
+    margin-top: 5px;
+    border: 3px solid #5bc0de;
+}
+.main_div label{
+    background: rosybrown;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px #5bc0de;
+}
+
+#camera{
+    border: 2px solid rosybrown;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px #5bc0de;
+}
+
+#result{
+    border: 2px solid rosybrown;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px #5bc0de;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px #5bc0de;
+    border: 1px solid;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img{
+    width: 100px;
+}
+
+.footer_1{
+    position: fixed;
+    color: yellowgreen;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+}
